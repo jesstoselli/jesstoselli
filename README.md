@@ -17,3 +17,6 @@ I'm currently taking @Rockeseat 's GoStack bootcamp and it's been an awesome and
     Rockeseat as [Jess Toselli](https://app.rocketseat.com.br/me/jessyca-toselli-1594492335)
 
 #### Throw me a challenge, I'm on the look out for those!
+
+http://github.com - automatic!
+[GitHub](http://github.com)
