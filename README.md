@@ -11,12 +11,9 @@ I'm currently taking @Rockeseat 's GoStack bootcamp and it's been an awesome and
 
 🌍 I speak Portuguese, as I'm Brazilian, fluent English and Spanish and also have a very good grasp of French and Italian.
 
-##### Come find me! I'm on
-    Twitter as [@jesstoselli](https://twitter.com/jesstoselli)
-    LinkedIn as [Jessyca Toselli](https://twitter.com/jesstoselli)
-    Rockeseat as [Jess Toselli](https://app.rocketseat.com.br/me/jessyca-toselli-1594492335)
+#### Come find me! I'm on
+Twitter as [@jesstoselli](https://twitter.com/jesstoselli)
+LinkedIn as [Jessyca Toselli](https://twitter.com/jesstoselli)
+Rockeseat as [Jess Toselli](https://app.rocketseat.com.br/me/jessyca-toselli-1594492335)
 
-#### Throw me a challenge, I'm on the look out for those!
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+### Throw me a challenge, I'm on the look out for those! 🚀
