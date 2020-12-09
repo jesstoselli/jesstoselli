@@ -8,7 +8,7 @@ I've transitioned careers earlier this year, having previously worked as a Fashi
 
 🚀 This incredible opportunity was made possible through the hard work of some amazing womem from ShareRH, who brilliantly organized the 4th WomenCanCode edition to happen completely online during the pandemic. The classes and all the learning were an awesome ride and it was incredibly rewarding to meet so many talented women that may help reshape the future of IT into a more inclusive one, and now even more outstanding is the chance to be working at the biggest beer company in the world.
 
-🧶 _ I've a very good grasp of **HTML**, **CSS** and **JavaScript**
+🧶 _ I've a very good grasp of **JavaScript**/**TypeScript** and **Kotlin**
 
 🧾 _ I'm currently learning to work with **Kotlin** in an proper production environment along with its my companions such as MVVM, Koin, Dagger, Retrofit 2 and others.
 
