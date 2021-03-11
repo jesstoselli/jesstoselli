@@ -10,7 +10,7 @@ I've transitioned careers last year, having previously worked as a Fashion Desig
 
 🧶 _ I've a very good grasp of **JavaScript**/**TypeScript** and **Kotlin**
 
-🧾 _ I'm currently learning to work with **Kotlin** in an proper production environment along with its my companions such as MVVM, Koin, Dagger, Retrofit 2 and others.
+🧾 _ I'm currently learning to work with **Kotlin** in an proper production environment along with its companions such as Java, MVVM, Koin, Dagger, Retrofit 2 and others.
 
 🌍 I speak Portuguese, as I'm Brazilian, fluent English and Spanish and also have a very good grasp of French and Italian.
 
