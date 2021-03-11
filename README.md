@@ -4,7 +4,7 @@ Hello, devs!  👋
 
 😇 My name is Jessyca and I'm an Android junior developer at AB Inbev.
 
-I've transitioned careers earlier this year, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
+I've transitioned careers last year, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
 
 🚀 This incredible opportunity was made possible through the hard work of some amazing womem from ShareRH, who brilliantly organized the 4th WomenCanCode edition to happen completely online during the pandemic. The classes and all the learning were an awesome ride and it was incredibly rewarding to meet so many talented women that may help reshape the future of IT into a more inclusive one, and now even more outstanding is the chance to be working at the biggest beer company in the world.
 
