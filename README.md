@@ -6,7 +6,7 @@ Hello, devs!  👋
 
 I've transitioned careers last year, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
 
-🚀 Currently taking Udacity's [Android Kotlin Developer Nanodegree](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) and about to start an Analysis and Systems Development graduation course at Anhanguera Educacional.
+🚀 Currently taking Udacity's [Android Kotlin Developer Nanodegree](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) and also an Analysis and Systems Development graduation course at Anhanguera Educacional.
 
 🧶 _ My main developing languages are **JavaScript**/**TypeScript** and **Kotlin**.
 
