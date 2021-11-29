@@ -8,7 +8,7 @@ I've transitioned careers last year, having previously worked as a Fashion Desig
 
 🚀 Currently taking Udacity's [Android Kotlin Developer Nanodegree](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) and also an Analysis and Systems Development graduation course at Anhanguera Educacional.
 
-🧶 _ My main developing languages are **JavaScript**/**TypeScript** and **Kotlin**.
+🧶 _ My main developing languages are **Kotlin** and **JavaScript**/**TypeScript**.
 
 🧾 _ I'm currently learning to work with **Kotlin** in an proper production environment along with its companions such as Java, MVVM, Koin, Dagger, Retrofit 2 and others.
 
