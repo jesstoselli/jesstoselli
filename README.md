@@ -4,7 +4,7 @@ Hello, devs!  👋
 
 😇 My name is Jessyca and I'm an Android junior developer at BEES (AB Inbev).
 
-I've transitioned careers last year, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
+I've transitioned careers in 2020, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
 
 🚀 Currently taking Udacity's [Android Kotlin Developer Nanodegree](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) and also an Analysis and Systems Development graduation course at Anhanguera Educacional.
 
