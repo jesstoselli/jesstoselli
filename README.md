@@ -2,7 +2,7 @@
 
 Hello, devs!  👋
 
-😇 My name is Jessyca and I'm an Associate Product Manager (and former Android junior developer) at BEES (AB Inbev).
+😇 My name is Jessyca and I'm an Android developer.
 
 I've transitioned careers in 2020, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
 
