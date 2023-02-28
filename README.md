@@ -10,8 +10,6 @@ I've transitioned careers in 2020, having previously worked as a Fashion Designe
 
 🧶 _ My main developing languages are **Kotlin** and **JavaScript**/**TypeScript**. I've worked two years with **Kotlin** in an proper production environment along with its companions such as Java, MVVM, Koin, Dagger, Retrofit 2 and others. I also quite enjoyed writting unit and instrumented tests with JUnit, Espresso, and Mockito.
 
-🧾 _ I'm currently working with as an Associate Product Manager, dealing directly with Android, iOS, and React JS developers.
-
 🌍 _ I speak Portuguese, as I'm Brazilian, fluent English and Spanish, and also have a very good grasp of French and Italian.
 
 #### 🚀 Come find me! I'm on
