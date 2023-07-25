@@ -12,4 +12,4 @@ I've transitioned careers in 2020, having previously worked as a Fashion Designe
 
 🌍 _ I speak Portuguese, as I'm Brazilian, fluent English and Spanish, and also have a very good grasp of French and Italian.
 
-#### 🚀 Come find me! I'm on LinkedIn as [Jessyca Toselli](https://twitter.com/jesstoselli)
+#### 🚀 Come find me! I'm on LinkedIn as [Jessyca Toselli](https://www.linkedin.com/in/jessyca-toselli/)
