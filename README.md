@@ -1,4 +1,4 @@
-# 👗 From tissues to the  tags. 💻
+# 👗 From tissues to the tags. 💻
 
 Hello, devs!  👋
 
@@ -8,7 +8,7 @@ I've transitioned careers in 2020, having previously worked as a Fashion Designe
 
 🚀 I've completed Udacity's [Android Kotlin Developer Nanodegree](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) and recently graduated the Analysis and Systems Development course at Anhanguera Educacional.
 
-🧶 _ My main developing languages are **Kotlin**/**Java** and . I've worked for over three years with **Kotlin** in an proper production environment along with its companions such as Java, MVVM, Koin, Dagger, Retrofit 2 and others. I also quite enjoyed writting unit and instrumented tests with JUnit, Espresso, and Mockito. Now I've taken on a new challenge, refactoring a legacy Java Android app into a brand new Kotlin one.
+🧶 _ My main developing languages are **Kotlin**/**Java**. I've worked for over three years with **Kotlin** in an proper production environment along with its companions such as Java, MVVM, Koin, Hilt, Retrofit 2 and others. I also quite enjoyed writting unit and instrumented tests with JUnit, Espresso, and Mockito. Now I've taken on a new challenge, refactoring a legacy Java Android app into a brand new Kotlin one.
 
 🌍 _ I speak Portuguese, as I'm Brazilian, fluent English and Spanish, and also have a very good grasp of French and Italian.
 
