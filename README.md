@@ -2,7 +2,7 @@
 
 Hello, devs!  👋
 
-😇 My name is Jessyca and I'm a mobile developer, working with Android for the past 3 years, and currently studying iOS/Swift. I also have some knowledge of hybrid platforms like React Native and Flutter.
+😇 My name is Jessyca and I'm a mobile developer, working with Android for over 3 years, and currently studying iOS/Swift. I also have some knowledge of hybrid platforms like React Native and Flutter.
 
 I've transitioned careers in 2020, having previously worked as a Fashion Designer, and I have dived heads on into this amazing world of coding.
 
