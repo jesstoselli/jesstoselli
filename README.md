@@ -1,4 +1,4 @@
-# 👗 From tissues to the tags. 💻
+# 👗 From tissues to tags. 💻
 
 Hello, devs! 👋
 
